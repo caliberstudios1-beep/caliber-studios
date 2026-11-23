@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://luxury-raindrop-332148.netlify.app/sitemap.xml
